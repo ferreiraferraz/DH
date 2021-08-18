@@ -1,0 +1,1 @@
+O software se comunica com o hardware através de comandos.

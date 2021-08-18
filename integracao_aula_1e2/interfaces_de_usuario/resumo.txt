@@ -1,0 +1,1 @@
+Interface do usuário gráfica do usuário, utiliza-se o mouse. O terminar é comumente utilizado o teclado.

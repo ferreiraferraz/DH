@@ -1,0 +1,1 @@
+No terminal podemos navegar, criar e excluir diretórios. Integrando esse mesmo bash ao VSCode. 
